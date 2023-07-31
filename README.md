@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @irene4tobia728
+- 👀 I’m interested in Android. I’m currently learning Java.
+- 🌱 Committed to building intuitive and user-friendly mobile applications.
